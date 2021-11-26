@@ -1,13 +1,12 @@
 ## Eloquent JavaScript
 
-![alt text](https://img.shields.io/badge/learning-javascript-yellow "JavaScript")
-![alt text](https://img.shields.io/badge/work%20in%20progress-exercises-green)
+![Learning JavaScript](https://img.shields.io/badge/learning-javascript-yellow "JavaScript")
+![Work in Progress](https://img.shields.io/badge/work%20in%20progress-exercises-green "Exercises")
 
 Here i will add the results of me following the [Eloquent Javascript](https://eloquentjavascript.net/) and my first interaction with JavaScript.
 
-
-Contains my own solution for end chapter exercises in the book [Eloquent Javascript](https://eloquentjavascript.net/)</br>
-The  original solutions and files containing each chapter’s project code - [Code Sandbox](https://eloquentjavascript.net/code/)
+Contains my own solution for end chapter exercises in the book [Eloquent Javascript](https://eloquentjavascript.net/).<br/>
+The  original solutions and files containing each chapter’s project code - [Code Sandbox](https://eloquentjavascript.net/code/).
 
 ### Chapters
 
