@@ -7,7 +7,7 @@ Here i will add the results of me following the [Eloquent Javascript](https://el
 
 
 Contains my own solution for end chapter exercises in the book [Eloquent Javascript](https://eloquentjavascript.net/)</br>
-The  original solutions and files containing each chapter’s project code [Code Sandbox](https://eloquentjavascript.net/code/)
+The  original solutions and files containing each chapter’s project code - [Code Sandbox](https://eloquentjavascript.net/code/)
 
 ### Chapters
 
