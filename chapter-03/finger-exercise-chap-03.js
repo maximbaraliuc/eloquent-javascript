@@ -1,3 +1,5 @@
+// CHAPTER'S PROJECT CODE (TRY AND ERROR PURPOSE) //
+
 // function multiplier(factor) {
 //   return number => number * factor;
 // }

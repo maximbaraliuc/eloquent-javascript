@@ -1,3 +1,5 @@
+// CHAPTER'S PROJECT CODE (TRY AND ERROR PURPOSE) //
+
 let journal = [{
     events: ["work", "touched tree", "pizza",
       "running", "television"

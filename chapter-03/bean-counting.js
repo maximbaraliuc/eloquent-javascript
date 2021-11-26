@@ -1,4 +1,5 @@
 // BEAN COUNTING //
+
 /* You can get the Nth character, or letter, from a string by writing "string"[N].
 The returned value will be a string containing only one character (for example,
 "b"). The first character has position 0, which causes the last one to be found at
@@ -36,4 +37,6 @@ t1 = "BBC"
 t2 = "kakkerlak", "k"
 
 console.log(countBs("BBC"));
+// → 2
 console.log(countChar("kakkerlak", "k"));
+// → 4
