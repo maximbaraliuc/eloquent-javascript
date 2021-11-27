@@ -49,9 +49,10 @@ console.log(every([], n => n < 10));
 <details>
 <summary>Display hints...</summary>
 <p>
-Like the && operator, the every method can stop evaluating further elements as soon as it has found one that doesn’t match. So the loop-based version can jump out of the loop—with break or return—as soon as it runs into an element for which the predicate function returns false. If the loop runs to its end without finding such an element, we know that all elements matched and we should return true.
 
-To build every on top of some, we can apply De Morgan’s laws, which state that a && b equals !(!a || !b). This can be generalized to arrays, where all elements in the array match if there is no element in the array that does not match..
+Like the <code>&&</code> operator, the <code>every</code> method can stop evaluating further elements as soon as it has found one that doesn’t match. So the loop-based version can jump out of the loop—with <code>break</code> or <code>return</code>—as soon as it runs into an element for which the predicate function returns false. If the loop runs to its end without finding such an element, we know that all elements matched and we should return true.
+
+To build <code>every</code> on top of <code>some</code>, we can apply <em>De Morgan’s laws</em>, which state that <code>a && b</code> equals <code>!(!a || !b)</code>. This can be generalized to arrays, where all elements in the array match if there is no element in the array that does not match..
 </p>
 </details>
 
@@ -75,9 +76,10 @@ console.log(dominantDirection("Hey, مساء الخير"));
 <details>
 <summary>Display hints...</summary>
 <p>
-Your solution might look a lot like the first half of the textScripts example. You again have to count characters by a criterion based on characterScript and then filter out the part of the result that refers to uninteresting (script-less) characters.
 
-Finding the direction with the highest character count can be done with reduce. If it’s not clear how, refer to the example earlier in the chapter, where reduce was used to find the script with the most characters.
+Your solution might look a lot like the first half of the <code>textScripts</code> example. You again have to count characters by a criterion based on <code>characterScript</code> and then filter out the part of the result that refers to uninteresting (script-less) characters.
+
+Finding the direction with the highest character count can be done with <code>reduce</code>. If it’s not clear how, refer to the example earlier in the chapter, where <code>reduce</code> was used to find the script with the most characters.
 </p>
 </details>
 
