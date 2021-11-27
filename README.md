@@ -15,7 +15,7 @@ The  original solutions and files containing each chapter’s project code - [Co
 - [x] [Chapter 02 Program Structure](https://github.com/maximbaraliuc/eloquent-javascript/tree/main/chapter-02)
 - [x] [Chapter 03 Functions](https://github.com/maximbaraliuc/eloquent-javascript/tree/main/chapter-03)
 - [x] [Chapter 04 Data Structures: Objects and Arrays](https://github.com/maximbaraliuc/eloquent-javascript/tree/main/chapter-04)
-- [ ] Chapter 05 Higher-order Functions
+- [ ] [Chapter 05 Higher-order Functions](https://github.com/maximbaraliuc/eloquent-javascript/tree/main/chapter-05)
 - [ ] Chapter 06 The Secret Life of Objects
 - [ ] Chapter 07 Project: A Robot
 - [ ] Chapter 08 Bugs and Errors
